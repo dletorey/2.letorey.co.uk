@@ -2,16 +2,7 @@
 title: "Exploring Da Nang"
 subTitle: "and reuniting with Friends"
 description: "Today we explored the streets of Da Nang, found a Dragon Bridge & some very posh houses and our friends arrived from Ho Chi Min City."
-tags:
-  [
-    "Siem Reap",
-    "Da Nang",
-    "Hoi An",
-    "food",
-    "Craft beer",
-    "Cambodia",
-    "Vietnam"
-  ]
+tags: ["Siem Reap", "Da Nang", "Hoi An", "Food", "Craft Beer", "Cambodia", "Vietnam"]
 date: 2025-12-05
 album: https://flickr.com/photos/dletorey/albums/72177720330718030/
 ---

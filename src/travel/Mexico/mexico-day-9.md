@@ -7,7 +7,7 @@ tags:
     "Travel",
     "Xochimiloco",
     "Mexico City",
-    "Boat trip",
+    "Boat Trip",
     "University City",
     "Frida Kahlo Museo"
   ]

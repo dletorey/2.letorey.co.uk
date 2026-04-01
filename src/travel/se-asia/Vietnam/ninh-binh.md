@@ -2,7 +2,7 @@
 title: "Ninh Binh tour"
 subTitle: "Dragon mountain and Boat Ride"
 description: "Today we had a tour of the Province of Ninh Binh, climbed a very steep hill, rode a boat through the countryside. In the Evening we explored Tam Coc."
-tags: ["Dragon Mountain", "Boats", "Ninh Binh", "Tam Coc", "Craft beer"]
+tags: ["Dragon Mountain", "Boats", "Ninh Binh", "Tam Coc", "Craft Beer"]
 date: 2025-12-10
 album: https://flickr.com/photos/dletorey/albums/72177720330830620
 ---

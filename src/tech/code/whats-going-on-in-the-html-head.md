@@ -1,7 +1,7 @@
 ---
 title: "What's going on in the (HTML) head"
 description: "The <code>&lt;head&gt;</code> of an HTML file describes how the page works, this explains what goes inside."
-tags: ["HTML", "websites", "head", "favicon", "CSS", "social media"]
+tags: ["HTML", "Websites", "Head", "Favicon", "CSS", "Social Media"]
 date: 2024-03-11
 # permalink: /posts/whats-going-on-in-the-html-head/index.html
 ---

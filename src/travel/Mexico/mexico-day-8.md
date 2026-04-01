@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 8"
 description: "Eighth day of our Mexico trip, Chapultepec Forest"
-tags: ["Mexico", "Walks", "Chaputepec forest", "Mexico City"]
+tags: ["Mexico", "Walks", "Chaputepec Forest", "Mexico City"]
 date: 2024-04-12
 # permalink: /leets/mexico-day-8/index.html
 ---

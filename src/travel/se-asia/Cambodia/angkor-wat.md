@@ -3,7 +3,7 @@ title: "Cambodia day 2"
 subTitle: "Angkor Wat"
 description: "Today we we went to Angkor Wat and the surrounding temples. In the evening we went to a restaurant with Apsara Dancing"
 tags:
-  ["Angkor Wat", "Apsara Dancing", "sunset", "Dancing", "Temples", "Cambodia"]
+  ["Angkor Wat", "Apsara Dancing", "Sunset", "Dancing", "Temples", "Cambodia"]
 date: 2025-12-01
 album: https://www.flickr.com/gp/dletorey/if04eKy0Ug
 ---

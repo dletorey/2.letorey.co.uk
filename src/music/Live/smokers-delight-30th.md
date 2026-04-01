@@ -4,7 +4,7 @@ description: "Nightmares on Wax 30th anniversary of Smokers Delight and 20th ann
 date: 2026-03-13
 tags:
   [
-    "Nightmares",
+    "Nightmares On Wax",
     "Royal Albert Hall",
     "Live",
     "Music",

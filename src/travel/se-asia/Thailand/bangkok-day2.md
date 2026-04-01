@@ -9,7 +9,7 @@ tags:
     "Boat Trip",
     "Reclining Buddha",
     "Sirocco",
-    "Sky bar"
+    "Sky Bar"
   ]
 date: 2025-11-21
 album: https://flickr.com/photos/dletorey/albums/72177720330505660/

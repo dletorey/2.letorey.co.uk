@@ -2,7 +2,7 @@
 title: "Bangkok day 1"
 subTitle: "Immigration, Transfers, Drag bars & Drunken room"
 description: "First day of our South East Asia trip, we arrived at Dubai airport to meet all of out friends."
-tags: ["Bangkok", "Immigration", "Transfers", "Drunken room"]
+tags: ["Bangkok", "Immigration", "Transfers", "Drunken Room"]
 date: 2025-11-20
 album: https://flickr.com/photos/dletorey/albums/72177720330471403/
 ---

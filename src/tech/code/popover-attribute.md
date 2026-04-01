@@ -1,7 +1,7 @@
 ---
 title: "HTML popover attribute"
 description: "In this post by Hidde and Scott they explain in great detail what the browser does and doesn't do when using the popover attribute."
-tags: ["HTML", "popover", "accessibility", "a11y"]
+tags: ["HTML", "Popover", "Accessibility", "A11y"]
 date: 2024-03-31
 # permalink: /leets/popover-attribute/index.html
 ---

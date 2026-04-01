@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 1"
 description: "First day of our Mexico trip, we arrived at our hotel at 12:30am"
-tags: ["Mexico", "Mexico City", "Tacos", "Food tour"]
+tags: ["Mexico", "Mexico City", "Tacos", "Food Tour"]
 date: 2024-04-05
 # permalink: /leets/mexico-day-1/index.html
 ---

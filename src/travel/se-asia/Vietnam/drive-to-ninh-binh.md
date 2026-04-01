@@ -2,7 +2,7 @@
 title: "Car to Ninh Binh"
 subTitle: "and exploring the Walking Street"
 description: "Today had a car drive us all the way from Hue to Ninh Binh. In the evening we explored the local and tourist streets."
-tags: ["Transfer", "Roads", "Ninh Binh", "Craft beer"]
+tags: ["Transfer", "Roads", "Ninh Binh", "Craft Beer"]
 date: 2025-12-09
 album: https://flickr.com/photos/dletorey/albums/72177720330844844
 ---

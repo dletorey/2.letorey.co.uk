@@ -2,7 +2,7 @@
 title: "Bangkok day 4"
 subTitle: "Bangkok dragons"
 description: "Before we transferred to Chiang Mai we explored Lumphini park to see the Water Monitors."
-tags: ["Bangkok", "Water Monitor Lizards", "Lumphini Park", "Chiang mai"]
+tags: ["Bangkok", "Water Monitor Lizards", "Lumphini Park", "Chiang Mai"]
 date: 2025-11-23
 album: https://flickr.com/photos/dletorey/albums/72177720330595289/
 ---

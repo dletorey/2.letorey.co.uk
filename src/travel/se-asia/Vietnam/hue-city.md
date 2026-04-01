@@ -2,7 +2,7 @@
 title: "Train to Huế"
 subTitle: "and the imperial city"
 description: "Today we got a train from Da Nang to Huế, the old capital of Vietnam."
-tags: ["Transfer", "Train", "Huế", "Craft beer"]
+tags: ["Transfer", "Train", "Huế", "Craft Beer"]
 date: 2025-12-08
 album: https://flickr.com/photos/dletorey/albums/72177720330810010
 ---

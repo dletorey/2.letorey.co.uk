@@ -2,7 +2,7 @@
 title: "Bangkok day 3"
 subTitle: "Sepak takraw & Dinner with Friends"
 description: "During the day I went exploring the city and in the evening we went for dinner with some long lost friends."
-tags: ["Bangkok", "Sepak takraw"]
+tags: ["Bangkok", "Sepak Takraw"]
 date: 2025-11-22
 album: https://flickr.com/photos/dletorey/albums/72177720330582973/
 ---
