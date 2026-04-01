@@ -1,0 +1,20 @@
+<nav>
+  <h2>dave</h2>
+  <ul>
+    {% for item in footerNav.items %}
+      <li>
+        <a href="{{ item.url }}">{{ item.text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <ul class="hidden" hidden>
+    {% for link in collections.social %}
+      <li><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
+    {% endfor %}
+    {% for item in me.items %}
+	  <li>
+	  	<a href="{{ item.url }}" rel="me">{{ item.text }}</a>
+	  </li>
+	  {% endfor %}
+  </ul>
+</nav>

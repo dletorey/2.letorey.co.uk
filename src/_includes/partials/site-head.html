@@ -1,0 +1,15 @@
+<a class="[ skip-link ] [ button ]" href="#main-content">Skip to content</a>
+<header role="banner">
+  <div class="logo">
+    <a href="/" aria-label="{{ site.title }} - home"><img src={{ author.avatar }} alt="Avatar of {{ author.name }}" /></a>
+  </div>
+	<nav aria-label="Primary">
+		<ul>
+			{% for item in navigation.items %}
+	    <li>
+	    	<a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
+	    </li>
+	    {% endfor %}
+		</ul>
+	</nav>
+</header>
