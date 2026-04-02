@@ -14,6 +14,6 @@ export const dateFilter = (value) => {
 	const dateObj = DateTime.fromISO(value, { zone: 'utc' });
 
 	return dateObj.toFormat(
-		`d'${ordinalDay(dateObj.day)} of' MMMM yyyy`,
+		`EEEE d'${ordinalDay(dateObj.day)}' MMMM yyyy`,
 	);
 };

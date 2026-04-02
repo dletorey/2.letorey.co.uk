@@ -23,6 +23,10 @@
 		{
 			"text": "Style Guide",
 			"url": "/style-guide/"
+		},
+		{
+			"text": "RSS",
+			"url": "/feed.xml"
 		}
 	]
 }
