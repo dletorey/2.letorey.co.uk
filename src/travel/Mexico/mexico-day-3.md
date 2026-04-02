@@ -6,7 +6,7 @@ tags:
     "Mexico",
     "Mexico City",
     "Walks",
-    "Mazatlán",
+    "Mazatlan",
     "Monterey",
     "Airplanes",
     "Grand Prix",

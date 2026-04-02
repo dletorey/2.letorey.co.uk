@@ -2,15 +2,7 @@
 title: "My Bloody Valentine"
 description: "My Bloody Valentine live at Royal Albert Hall in aid of Teenage Cancer Trust, supported by Chvrches."
 date: 2026-03-27
-tags:
-  [
-    "Music",
-    "Live",
-    "My Bloody Valentine",
-    "Royal Albert Hall",
-    "London",
-    "Chvrches"
-  ]
+tags: ["Live", "My Bloody Valentine", "Royal Albert Hall", "London", "Chvrches"]
 album: https://flickr.com/photos/dletorey/albums/72177720332756720
 # permalink: /leets/my-bloody-valentine-teenage-cancer-trust/index.html
 ---

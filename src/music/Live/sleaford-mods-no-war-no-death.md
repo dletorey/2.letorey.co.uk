@@ -2,7 +2,7 @@
 title: "Sleaford Mods No War No Death tour"
 description: "Live at Brixton Academy, 7 March 2026. Support act, Orbital DJ Set."
 date: 2026-03-08
-tags: ["Sleaford Mods", "Live", "Music", "Orbital", "DJ Set", "Brixton"]
+tags: ["Sleaford Mods", "Live", "Orbital", "DJ Set", "Brixton"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332495395/
 # permalink: /leets/sleaford-mods-no-war-no-death/index.html
 setlist:

@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 6"
 description: "Sixth day of our Mexico trip, flight back to Mexico City and Polanco!"
-tags: ["Mexico", "Travel", "Mazatlán", "Monterrey", "Mexico City"]
+tags: ["Mexico", "Mazatlan", "Monterrey", "Mexico City"]
 date: 2024-04-10
 # permalink: /leets/mexico-day-6/index.html
 ---

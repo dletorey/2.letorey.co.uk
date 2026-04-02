@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 14"
 description: "Fourtenth day of our Mexico trip, Cocktails and souvenirs in Oaxaca City"
-tags: ["Mexico", "Oaxaca", "Travel", "Cocktails"]
+tags: ["Mexico", "Oaxaca", "Cocktails"]
 date: 2024-04-18
 # permalink: /leets/mexico-day-14/index.html
 ---

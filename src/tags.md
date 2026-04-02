@@ -8,4 +8,3 @@ pagination:
   filter: ['all', 'nav', 'blog', 'work', 'featuredWork', 'people', 'rss']
 permalink: '/tags/{{ tag | slugify }}/'
 ---
-hello tags

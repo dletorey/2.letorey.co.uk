@@ -1,7 +1,7 @@
 ---
 title: "Massive Attack live on Clifton Downs Bristol"
 description: "I've seen massive attack live now over 20 times and this is definitely the best."
-tags: ["Massive Attack", "Music", "Bristol", "Live", "Concert"]
+tags: ["Massive Attack", "Bristol", "Live", "Concert"]
 date: 2024-08-27
 # permalink: /posts/massive-attack-bristol-2024/index.html
 ---

@@ -2,7 +2,8 @@
 title: "Goodbye Cambodia, Hello Vietnam"
 subTitle: "From Siem Reap to Da Nang"
 description: "Today we transferred from Siem Reap (SAI) to Da Nang (DAD) and jumped a cab to Hội An."
-tags: ["Siem Reap", "Da Nang","Hoi An", "Food", "Craft Beer", "Cambodia", "Vietnam"]
+tags:
+  ["Siem Reap", "Da Nang", "Hoi An", "Craft Beer", "Cambodia", "Vietnam"]
 date: 2025-12-04
 album: https://flickr.com/photos/dletorey/albums/72177720330719696
 ---

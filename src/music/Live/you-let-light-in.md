@@ -2,7 +2,7 @@
 title: "you bring light in"
 description: "Underworld at Brixton Academy was exactly the thing I needed today!"
 date: 2026-02-06
-tags: ["Underworld", "Brixton Academy", "Live", "Music"]
+tags: ["Underworld", "Brixton Academy", "Live"]
 updated: 2026-02-08
 album: https://flickr.com/photos/dletorey/albums/72177720332529879/
 # permalink: /leets/you-let-light-in/index.html

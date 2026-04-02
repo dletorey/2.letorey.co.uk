@@ -7,7 +7,7 @@ tags:
     "Green Album",
     "Brown Album",
     "Live Music",
-    "Music",
+
     "Gigs",
     "Birmingham",
     "O2 Institute",

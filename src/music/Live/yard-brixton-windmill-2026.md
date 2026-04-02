@@ -2,7 +2,7 @@
 title: "Yard Brixton Windmill"
 description: "Dublin electro noise trio put on a superb show."
 date: 2026-03-26
-tags: ["Music", "Live", "Yard", "Brixton Windmill"]
+tags: ["Live", "Yard", "Brixton Windmill"]
 album: https://flickr.com/photos/dletorey/albums/72177720332770664
 # permalink: /leets/yard-brixton-windmill-2026/index.html
 ---

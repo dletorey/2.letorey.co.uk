@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 12"
 description: "Twelfth day of our Mexico trip, Casa Crespo Mexican cookery course"
-tags: ["Mexico", "Oaxaca", "Travel", "Cookery Course", "Markets", "Casa Crespo"]
+tags: ["Mexico", "Oaxaca", "Cookery Course", "Markets", "Casa Crespo"]
 date: 2024-04-16
 # permalink: /leets/mexico-day-12/index.html
 ---

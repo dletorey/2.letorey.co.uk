@@ -4,7 +4,7 @@ description: "Ninth day of our Mexico trip, day trip to Xochimiloco and Frida Ka
 tags:
   [
     "Mexico",
-    "Travel",
+
     "Xochimiloco",
     "Mexico City",
     "Boat Trip",

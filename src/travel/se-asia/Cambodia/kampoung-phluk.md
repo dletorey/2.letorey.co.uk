@@ -2,7 +2,7 @@
 title: "Cambodia day 3"
 subTitle: "Kampoung Phluk floating village"
 description: "Today we visited Kampoung Phluk floating village canoed through the mangroves and watched the sunset."
-tags: ["Kampoung Phluk", "Floating Village", "Sunset", "French Food", "Food", "Cambodia"]
+tags: ["Kampoung Phluk", "Floating Village", "Sunset", "French Food", "Cambodia"]
 date: 2025-12-02
 album: https://www.flickr.com/gp/dletorey/325Bi5w68j
 ---

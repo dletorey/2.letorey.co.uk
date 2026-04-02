@@ -1,7 +1,7 @@
 ---
 title: "Florence Prom 69"
 description: "Florence + the Machine perform Lungs at The Royal Albert Hall with Jules Buckley and the BBC Symphony Orchestra. Wednesday 11 September 2024."
-tags: ["Florence + the Machine", "Music", "Live", "BBC", "Proms"]
+tags: ["Florence + the Machine", "Live", "BBC", "Proms"]
 date: 2024-09-27
 # permalink: /posts/florence-prom69/index.html
 ---

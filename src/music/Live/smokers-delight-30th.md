@@ -7,7 +7,7 @@ tags:
     "Nightmares On Wax",
     "Royal Albert Hall",
     "Live",
-    "Music",
+
     "Smokers Delight",
     "In a Space Outta Sound"
   ]

@@ -2,15 +2,7 @@
 title: "Mexico holiday day 13"
 description: "Thirteenth day of our Mexico trip, El Tule, Mitla, and Hierve el Agua Tour with Mezcal tasting"
 tags:
-  [
-    "Mexico",
-    "Oaxaca",
-    "Travel",
-    "El Tule",
-    "Mitla",
-    "Hierve el Agua",
-    "Mezcal tasting"
-  ]
+  ["Mexico", "Oaxaca", "El Tule", "Mitla", "Hierve el Agua", "Mezcal tasting"]
 date: 2024-04-17
 # permalink: /leets/mexico-day-13/index.html
 ---

@@ -2,7 +2,7 @@
 title: "Club Gascon one last time"
 description: "A few weeks ago we got an email that one of our favourite restaurants was closing on 28 March 2026. This also coincided with our 19th anniversary, almost."
 date: 2026-03-25
-tags: ["Food", "Restaurant", "Michelin Star"]
+tags: ["Restaurant", "Michelin Star"]
 album: https://flickr.com/photos/dletorey/albums/72177720332734377
 # permalink: /leets/club-gascon-one-last-time/index.html
 ---

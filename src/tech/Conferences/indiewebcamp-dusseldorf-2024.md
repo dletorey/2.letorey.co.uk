@@ -1,7 +1,7 @@
 ---
 title: "IndieWebCamp Dusseldorf 2024"
 description: "Today I attended IndieWebCamp in Düsseldorf, before Beyond Tellerand conference, here I layout what I did during the day."
-tags: ["IndieWeb", "IndieWebCamp", "Düsseldorf", "Beyond Tellerand", "Coding"]
+tags: ["IndieWeb", "IndieWebCamp", "Dusseldorf", "Beyond Tellerand", "Coding"]
 date: 2024-05-12
 # permalink: /posts/indiewebcamp-dusseldorf-2024/index.html
 ---

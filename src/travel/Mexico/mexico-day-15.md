@@ -5,7 +5,7 @@ tags:
   [
     "Mexico",
     "Mexico City",
-    "Travel",
+
     "Palacio de los Deportes",
     "Autódromo Hermanos Rodríguez",
     "Grand Prix"

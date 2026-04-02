@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 5"
 description: "Fifth day of our Mexico trip, bimbling around Mazatlán!"
-tags: ["Mexico", "Walks", "Mazatlán", "Coffee"]
+tags: ["Mexico", "Walks", "Mazatlan", "Coffee"]
 date: 2024-04-09
 # permalink: /leets/mexico-day-5/index.html
 ---

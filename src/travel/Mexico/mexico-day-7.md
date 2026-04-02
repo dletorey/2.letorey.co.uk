@@ -2,13 +2,7 @@
 title: "Mexico holiday day 7"
 description: "Seventh day of our Mexico trip, day out to Teotihuacan"
 tags:
-  [
-    "Mexico",
-    "Travel",
-    "Teotihuacan",
-    "Basilica of Our Lady of Guadalupe",
-    "Mexico City"
-  ]
+  ["Mexico", "Teotihuacan", "Basilica of Our Lady of Guadalupe", "Mexico City"]
 date: 2024-04-11
 # permalink: /leets/mexico-day-7/index.html
 ---

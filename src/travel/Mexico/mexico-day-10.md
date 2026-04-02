@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 10"
 description: "Tenth day of our Mexico trip, Chilling in Polanco"
-tags: ["Mexico", "Travel", "Mexico City", "Polanco"]
+tags: ["Mexico", "Mexico City", "Polanco"]
 date: 2024-04-14
 # permalink: /leets/mexico-day-10/index.html
 ---

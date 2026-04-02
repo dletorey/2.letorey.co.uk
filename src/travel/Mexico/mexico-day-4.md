@@ -1,7 +1,7 @@
 ---
 title: "Mexico holiday day 4"
 description: "Forth day of our Mexico trip, Eclipse Day!"
-tags: ["Mexico", "Walks", "Mazatlán", "Eclipse"]
+tags: ["Mexico", "Walks", "Mazatlan", "Eclipse"]
 date: 2024-04-08
 # permalink: /leets/mexico-day-4/index.html
 ---
