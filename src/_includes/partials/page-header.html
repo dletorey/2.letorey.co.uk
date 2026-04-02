@@ -3,8 +3,14 @@
 		<h1 class="[ page-header__heading ] [ headline ]" data-highlight="primary">
 			{{ pageHeaderTitle }}
 		</h1>
+		{% if not tag %}
+			{% if pagination.pages.length > 1 %}
+			<h2>Page {{ pagination.pageNumber + 1 }} of {{pagination.pages.length}}</h2>
+			{% endif %}
+		{% endif %}
 		{% if pageHeaderSummary %}
 		<div class="[ page-header__summary ] [ measure-long ]">
+
 			{{ pageHeaderSummary | safe }}
 		</div>
 		{% endif %}

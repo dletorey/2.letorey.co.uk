@@ -1,0 +1,4 @@
+{
+	"layout": "layouts/post.html",
+	"permalink": "/travel/{{ title | slugify }}/index.html"
+}

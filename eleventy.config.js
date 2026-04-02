@@ -1,4 +1,11 @@
+// Filters
+import { dateFilter } from './src/filters/date-filter.js';
+import { w3DateFilter } from './src/filters/w3-date-filter.js';
+
 export default function (eleventyConfig) {
+	// Add filters
+	eleventyConfig.addFilter('dateFilter', dateFilter);
+	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
 	eleventyConfig.setInputDirectory('src');
 	eleventyConfig.setOutputDirectory('public');
   // Set directories to pass through to the dist folder
@@ -6,22 +13,25 @@ export default function (eleventyConfig) {
 
 	// Returns post folders items, sorted by display order
 	eleventyConfig.addCollection('books', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/books/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/books/**/*.md')]);
 	});
 	eleventyConfig.addCollection('food', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/food/*/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/food/**/*.md')]);
 	});
 	eleventyConfig.addCollection('music', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/music/*/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/music/**/*.md')]);
 	});
 	eleventyConfig.addCollection('tech', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/tech/*/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/tech/**/*.md')]);
 	});
 	eleventyConfig.addCollection('thoughts', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/thoughts/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/thoughts/**/*.md')]);
 	});
 	eleventyConfig.addCollection('travel', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/travel/*/*/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/travel/**/*.md')]);
+	});
+	eleventyConfig.addCollection('allPosts', (collection) => {
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/**/*.md')]);
 	});
 }
 
