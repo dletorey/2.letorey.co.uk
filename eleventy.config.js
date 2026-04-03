@@ -1,4 +1,5 @@
 import rssPlugin from '@11ty/eleventy-plugin-rss';
+import CleanCSS from "clean-css";
 // Filters
 import { dateFilter } from './src/filters/date-filter.js';
 import { w3DateFilter } from './src/filters/w3-date-filter.js';
@@ -7,6 +8,10 @@ export default function (eleventyConfig) {
 	// Add filters
 	eleventyConfig.addFilter('dateFilter', dateFilter);
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
+	eleventyConfig.addFilter("cssmin", function (code) {
+		return new CleanCSS({}).minify(code).styles;
+	});
+	// set directories
 	eleventyConfig.setInputDirectory('src');
 	eleventyConfig.setOutputDirectory('public');
   // Set directories to pass through to the dist folder
