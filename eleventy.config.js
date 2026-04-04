@@ -22,25 +22,25 @@ export default function (eleventyConfig) {
 
 	// Returns post folders items, sorted by display order
 	eleventyConfig.addCollection('books', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/books/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/books/**/*.md')]);
 	});
 	eleventyConfig.addCollection('food', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/food/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/food/**/*.md')]);
 	});
 	eleventyConfig.addCollection('music', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/music/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/music/**/*.md')]);
 	});
 	eleventyConfig.addCollection('tech', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/tech/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/tech/**/*.md')]);
 	});
 	eleventyConfig.addCollection('thoughts', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/thoughts/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/thoughts/**/*.md')]);
 	});
 	eleventyConfig.addCollection('travel', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/travel/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/travel/**/*.md')]);
 	});
 	eleventyConfig.addCollection('allPosts', (collection) => {
-		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/posts/**/*.md')]);
+		return sortByDisplayOrder([...collection.getFilteredByGlob('./src/**/*.md')]);
 	});
 }
 
