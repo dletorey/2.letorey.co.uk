@@ -2,8 +2,8 @@
 title: "Rebuild for a reason and let that reason be…"
 description: "Why am I rebuilding my blog"
 tags: ["Web Development", "Learning", "CSS", "HTML", "Learning", "IndieWeb"]
-date: '2024-04-01'
-# permalink: /leets/rebuild-for-a-reason/index.html
+date: "2024-04-01"
+oldUrl: /leets/rebuild-for-a-reason/index.html
 ---
 
 Two things happened today (1 April 2024):

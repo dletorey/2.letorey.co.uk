@@ -4,7 +4,7 @@ description: "David Byrne live at Forest National, Brussels."
 date: '2026-02-18'
 tags: ["David Byrne", "Brussels", "Live"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518143/
-# permalink: /leets/once-in-a-lifetime/index.html
+oldUrl: /leets/once-in-a-lifetime/index.html
 setlist:
   - url: https:///www.setlist.fm/setlist/david-byrne/2026/vorst-nationaal-forest-national-virst-forest-belgium-6344d613.html
   - tracks:

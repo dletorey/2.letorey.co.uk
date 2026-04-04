@@ -2,8 +2,8 @@
 title: "Mexico holiday day 11"
 description: "Eleventh day of our Mexico trip, traveling to Oaxaca"
 tags: ["Mexico", "Mexico City", "Oaxaca", "Cocktails", "Flights"]
-date: '2024-04-15'
-# permalink: /leets/mexico-day-11/index.html
+date: "2024-04-15"
+oldUrl: /leets/mexico-day-11/index.html
 ---
 
 Today was another day of transferring, this time from Mexico City to Oaxaca City (in the UK this is written Wahaca).

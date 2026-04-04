@@ -11,6 +11,9 @@ export default function (eleventyConfig) {
 	eleventyConfig.addFilter("cssmin", function (code) {
 		return new CleanCSS({}).minify(code).styles;
 	});
+	eleventyConfig.addFilter('is_string', function(obj) {
+    return typeof obj == 'string'
+  })
 	// set directories
 	eleventyConfig.setInputDirectory('src');
 	eleventyConfig.setOutputDirectory('public');

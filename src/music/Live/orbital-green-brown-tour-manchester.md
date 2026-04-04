@@ -5,7 +5,7 @@ tags:
   ["Orbital", "Green Album", "Brown Album", "Live Music", "Gigs", "Manchester", "Victoria Warehouse"]
 date: '2024-05-04'
 album: https://www.flickr.com/photos/dletorey/albums/72177720332524672
-# permalink: /leets/orbital-green-brown-tour-manchester/index.html
+oldUrl: /leets/orbital-green-brown-tour-manchester/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html
   - tracks:

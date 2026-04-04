@@ -2,8 +2,8 @@
 title: "Mexico holiday day 1"
 description: "First day of our Mexico trip, we arrived at our hotel at 12:30am"
 tags: ["Mexico", "Mexico City", "Tacos", "Food Tour"]
-date: '2024-04-05'
-# permalink: /leets/mexico-day-1/index.html
+date: "2024-04-05"
+oldUrl: /leets/mexico-day-1/index.html
 ---
 
 After a long (14 hour) flight via Toronto we eventually got to our hotel at 12:30 in the morning and went straight to bed exhausted.

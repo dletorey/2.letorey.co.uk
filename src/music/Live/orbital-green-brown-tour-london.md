@@ -5,7 +5,7 @@ tags:
   ["Orbital", "Green Album", "Brown Album", "Live Music", "Gigs", "London", "Troxy"]
 date: '2024-04-27'
 album: https://www.flickr.com/photos/dletorey/albums/72177720332553544
-# permalink: /leets/orbital-green-brown-tour-london/index.html
+oldUrl: /leets/orbital-green-brown-tour-london/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/orbital/2024/troxy-london-england-7babd6d8.html
   - tracks:

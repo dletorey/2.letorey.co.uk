@@ -7,7 +7,7 @@ tags:
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518243/
 setlist:
   - url: https://www.setlist.fm/setlist/nightmares-on-wax/2026/royal-albert-hall-london-england-7349965d.html
-# permalink: /leets/smokers-delight-30th/index.html
+oldUrl: /leets/smokers-delight-30th/index.html
 ---
 
 ![Nightmares on Wax postcard given out at the gig, it pictures George sitting on a reel to reel tape deck beneath it reads 12th March 2026 Royal Albert Hall, Smokers Delight and In a Space Outta Sound](/images/now/now-front.jpg)

@@ -2,8 +2,8 @@
 title: "Mexico holiday April 2024"
 description: "A list of posts for our Mexico trip"
 tags: ["Mexico", "Mexico City", "Mazatlan", "Oaxaca"]
-date: '2024-04-22'
-# permalink: /leets/mexico-april-2024/index.html
+date: "2024-04-22"
+oldUrl: /leets/mexico-april-2024/index.html
 ---
 
 - [Day 1 - we arrived at our hotel at 12:30am](/leets/mexico-day-1)

@@ -2,8 +2,8 @@
 title: "CSS text-wrap longhand properties"
 description: "The CSS text-wrap property has now been made a shorthand property for text-wrap-mode and text-wrap-style."
 tags: ["CSS", "Text-Wrap", "Balance"]
-date: '2024-03-20'
-# permalink: /leets/text-wrap-longhand-properties/index.html
+date: "2024-03-20"
+oldUrl: /leets/text-wrap-longhand-properties/index.html
 ---
 
 Firefox now supports, the longhand properties of `text-wrap`, `text-wrap-mode` and `text-wrap-style`

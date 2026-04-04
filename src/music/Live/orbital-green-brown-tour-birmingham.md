@@ -5,7 +5,7 @@ tags:
   ["Orbital", "Green Album", "Brown Album", "Live Music", "Gigs", "Birmingham", "O2 Institute", "Digbeth"]
 date: '2024-04-26'
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518680
-# permalink: /leets/orbital-green-brown-tour-birmingham/index.html
+oldUrl: /leets/orbital-green-brown-tour-birmingham/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/orbital/2024/o2-institute-birmingham-england-73abd6e5.html
   - tracks:

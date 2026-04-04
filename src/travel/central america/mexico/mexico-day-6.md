@@ -2,8 +2,8 @@
 title: "Mexico holiday day 6"
 description: "Sixth day of our Mexico trip, flight back to Mexico City and Polanco!"
 tags: ["Mexico", "Mazatlan", "Monterrey", "Mexico City"]
-date: '2024-04-10'
-# permalink: /leets/mexico-day-6/index.html
+date: "2024-04-10"
+oldUrl: /leets/mexico-day-6/index.html
 ---
 
 Day 6 we were mostly transferring from Mazatlán back to Mexico City via Monterrey. The morning started with another coffee from Coffee Break Mazatlán.
