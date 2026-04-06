@@ -1,0 +1,20 @@
+header[role="banner"] {
+  display: flex;
+  flex-direction: row;
+}
+.logo img {
+  height: var(--sp-xl);
+  width: auto;
+}
+header nav {
+  width: 100%;
+  align-content: center;
+}
+header nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-evenly;
+  gap: var(--sp-s);
+  flex-wrap: wrap;
+}
