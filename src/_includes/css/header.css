@@ -6,11 +6,11 @@ header[role="banner"] {
   height: var(--sp-xl);
   width: auto;
 }
-header nav {
+header nav, footer nav {
   width: 100%;
   align-content: center;
 }
-header nav ul {
+header nav ul, footer nav ul {
   display: flex;
   flex-direction: row;
   list-style: none;
