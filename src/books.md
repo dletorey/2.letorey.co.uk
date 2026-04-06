@@ -1,6 +1,7 @@
 ---
 title: 'Books'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.books
   size: 12

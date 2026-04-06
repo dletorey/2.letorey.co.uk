@@ -1,6 +1,7 @@
 ---
 title: 'Travel'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.travel
   size: 12

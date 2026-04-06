@@ -1,6 +1,7 @@
 ---
 title: 'Music'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.music
   size: 12

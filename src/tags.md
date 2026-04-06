@@ -1,6 +1,7 @@
 ---
 title: 'Tag Archive'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections
   size: 1

@@ -3,6 +3,7 @@ title: 'letorey.co.uk'
 subTitle: 'Latest posts'
 description: 'Home page of Letorey.co.uk'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.allPosts
   size: 12

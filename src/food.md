@@ -1,6 +1,7 @@
 ---
 title: 'Food'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.food
   size: 12

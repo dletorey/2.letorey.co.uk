@@ -1,6 +1,7 @@
 ---
 title: 'Thoughts'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.thoughts
   size: 12

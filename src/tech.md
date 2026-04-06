@@ -1,6 +1,7 @@
 ---
 title: 'Technology'
 layout: 'layouts/landing.html'
+eleventyExcludeFromCollections: true
 pagination:
   data: collections.tech
   size: 12
