@@ -1,0 +1,32 @@
+{
+  "links": [
+  {
+    "name": "github",
+    "username": "dletorey",
+    "url": "https://github.com/dletorey"
+  },
+  {
+    "name": "BlueSky",
+    "username": "dletorey",
+    "url": "https://bsky.app/profile/letorey.co.uk",
+    "hCard": true
+  },
+  {
+    "name": "Mastodon",
+    "username": "dletorey",
+    "url": "https://front-end.social/@dletorey",
+    "hCard": true
+  },
+  {
+		"name": "LinkedIn",
+    "username": "",
+		"url": "https://www.linkedin.com/in/dletorey/",
+    "hCard": true
+	},
+  {
+    "name": "CodePen",
+    "username": "CodeRedDigital",
+    "url": "https://codepen.io/CodeRedDigital",
+    "hCard": true
+  }]
+}

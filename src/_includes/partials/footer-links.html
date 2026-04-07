@@ -10,10 +10,10 @@
     {% for link in collections.social %}
       <li><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
     {% endfor %}
-    {% for item in me.items %}
+    {% for link in links.links %}{% if link.hCard %}
 	  <li>
-	  	<a href="{{ item.url }}" rel="me">{{ item.text }}</a>
+	  	<a href="{{ link.url }}" rel="me">{{ link.name }}</a>
 	  </li>
-	  {% endfor %}
+	  {% endif %}{% endfor %}
   </ul>
 </nav>
