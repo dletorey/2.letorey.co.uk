@@ -3,11 +3,13 @@ import CleanCSS from "clean-css";
 // Filters
 import { dateFilter } from './src/filters/date-filter.js';
 import { w3DateFilter } from './src/filters/w3-date-filter.js';
+import { filterByKey } from './src/filters/array-filters.js';
 
 export default function (eleventyConfig) {
 	// Add filters
 	eleventyConfig.addFilter('dateFilter', dateFilter);
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
+	eleventyConfig.addFilter('filterByKey', filterByKey);
 	eleventyConfig.addFilter("cssmin", function (code) {
 		return new CleanCSS({}).minify(code).styles;
 	});
