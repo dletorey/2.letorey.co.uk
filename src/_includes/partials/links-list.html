@@ -5,9 +5,9 @@
   {% if filteredList.length %}
   <section class="links {{ category | replace(" ", "-") | lower }}">
     {%- if category == "None" -%}
-        <h2>Others</h2>
+        <h2 id="none">Others</h2>
     {%- else -%}
-        <h2>{{ category }}</h2>
+        <h2 id={{ category | replace(" ", "-") | lower }}>{{ category }}</h2>
     {%- endif -%}
     <ul>
     {%- for link in filteredList -%}
