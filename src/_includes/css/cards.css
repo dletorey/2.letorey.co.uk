@@ -25,7 +25,7 @@
   footer {
     padding: var(--sp-3xs);
   }
-  h2 {
+  .card h2 {
     font-size: var(--step-1);
     margin: var(--sp-3xs);
     span {

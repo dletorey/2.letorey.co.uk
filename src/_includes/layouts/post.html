@@ -11,23 +11,15 @@
 	<br /><strong>Updated:</strong> <time datetime="{{ updated | w3DateFilter }}">{{ updated | dateFilter }}</time>
 	{% endif %}
 	{% if tags %}
-		<p class="visually-hidden" id="tags-desc">This post has been tagged with the following tag{% if tags.length > 1 %}s{% endif %}.</p>
-		<ul class="tags-list" aria-describedby="tags-desc">
-			{% for tag in tags %}
-				<li>
-					<a href="/tags/{{ tag | slugify }}/">#{{ tag | title | replace(' ', '') }}</a>
-				</li>
-			{% endfor %}
-		</ul>
+		{% include "partials/tags-list.html" %}
 	{% endif %}
 {% endset %}
 
 {% block content %}
 	<article>
 		{% include "partials/page-header.html" %}
-
-		<div class="[ page-content ] [ flow wrapper ] [ flow-space-700 gap-top-700 ]">
+		<section class="content">
 			{{ content | safe }}
-		</div>
+		</section>
 	</article>
 {% endblock %}

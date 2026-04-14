@@ -3,6 +3,7 @@
   flex-direction: row;
   gap: var(--sp-s);
   flex-wrap: wrap;
+  font-size: var(--step--1);
 }
 .tags-list li a,
 header nav ul li a[data-state="active"] {
