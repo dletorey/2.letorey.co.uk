@@ -5,7 +5,7 @@ description: "Even more acid, this time in a sold out venue in Nottingham."
 date: "2026-04-11"
 tags: ["Live", "Sunscreem", "Filter Sequence", "More Acid", "Nottingham", "The Chapel"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720333076589/
-permalink: /posts/music/Live/club-onion-april-2026/
+oldUrl: /posts/music/Live/club-onion-april-2026/
 ---
 
 {{ description }}

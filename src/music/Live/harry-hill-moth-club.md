@@ -4,7 +4,7 @@ subTitle: "Knock2bag Comedy Night - Moth Club"
 description: "I know that this is not Music but it kinda lives here, it was a live performance after all."
 date: "2026-04-09"
 tags: ["Live", "Comedy", "London", "Hackney", "Moth Club", "TransLivesMatter"]
-permalink: /posts/music/Live/harry-hill-moth-club/
+oldUrl: /posts/music/Live/harry-hill-moth-club/
 ---
 
 Last night I went to [The Moth Club](https://mothclub.co.uk/), with my friends Lisa & Steven, to see Harry Hill.

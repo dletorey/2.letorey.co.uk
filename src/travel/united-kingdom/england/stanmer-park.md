@@ -4,7 +4,7 @@ description: "Today we went for a walk around Stanmer Park on the edge of Bright
 date: 2026-04-05
 tags: ["Stanmer Park", "Brighton", "Walking", "Flowers", "Orchard"]
 album: https://flickr.com/photos/dletorey/albums/72177720332941063/
-permalink: /posts/travel/united-kingdom/england/stanmer-park/
+oldUrl: /posts/travel/united-kingdom/england/stanmer-park/
 ---
 
 Today we decided to escape London and go for a walk in the out doors.
