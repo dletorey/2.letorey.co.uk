@@ -7,6 +7,7 @@
   "speedlify": "https://speedlify.letorey.co.uk",
   "locale": "en-gb",
   "zone": "Europe/London",
+  "icon": "/images/site-icon.svg",
   "hcard":{
     "avatar": "dletorey-avatar.png",
     "name": "Dave Letorey",
