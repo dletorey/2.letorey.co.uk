@@ -3,7 +3,7 @@
         rect {
             fill: #FBFAFB;
             stroke: #971c12;
-            stroke-width: 3;
+            stroke-width: 2;
         }
         #bowler {
             fill: #971c12;
@@ -12,7 +12,7 @@
             rect {
                 fill: #08415C;
                 stroke: #ffb714;
-                stroke-width: 3;
+                stroke-width: 2;
             }
             #bowler {
                 fill: #ffb714;
