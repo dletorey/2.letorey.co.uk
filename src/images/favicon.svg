@@ -1,8 +1,22 @@
 <svg width="290" height="290" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <style>
-        rect {fill: #08415C;}
+        rect {
+            fill: #FBFAFB;
+            stroke: #971c12;
+            stroke-width: 3;
+        }
+        #bowler {
+            fill: #971c12;
+        }
         @media (prefers-color-scheme: dark) {
-            rect {fill: #FBFAFB;}
+            rect {
+                fill: #08415C;
+                stroke: #ffb714;
+                stroke-width: 3;
+            }
+            #bowler {
+                fill: #ffb714;
+            }
         }
     </style>
     <title>Letorey.co.uk Favicon</title>
