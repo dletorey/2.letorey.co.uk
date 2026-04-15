@@ -10,6 +10,6 @@ pagination:
 permalink: '{% if pagination.pageNumber > 0 %}/{{ pagination.pageNumber }}{% endif %}/index.html'
 paginationPrevText: 'Newer posts'
 paginationNextText: 'Older posts'
-paginationAnchor: '#posts-list'
+paginationAnchor: 'posts-list'
 ---
 Dave's Home page

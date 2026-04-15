@@ -8,7 +8,7 @@ pagination:
 permalink: 'thoughts{% if pagination.pageNumber > 0 %}/{{ pagination.pageNumber }}{% endif %}/index.html'
 paginationPrevText: 'Newer thoughts posts'
 paginationNextText: 'Older thoughts posts'
-paginationAnchor: '#thoughts-list'
+paginationAnchor: 'thoughts-list'
 ---
 The latest articles from around the studio, demonstrating our design
 thinking, strategy and expertise.

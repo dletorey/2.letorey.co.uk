@@ -14,7 +14,7 @@ export function getLinkActiveState(itemUrl, pageUrl) {
 		response = ' aria-current="page"';
 	}
 
-	if (itemUrl.length > 1 && pageUrl.indexOf(itemUrl) === 0) {
+	if ((itemUrl.length > 1 && pageUrl.indexOf(itemUrl) === 0) || (pageUrl === "/" && itemUrl === "/")) {
 		response += ' data-state="active"';
 	}
 
