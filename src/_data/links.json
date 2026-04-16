@@ -41,6 +41,12 @@
     "category": "Music"
     },
     {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/dletorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
     "name": "MusicBrainz",
     "url": "https://musicbrainz.org/user/dletorey",
     "order": "10",
