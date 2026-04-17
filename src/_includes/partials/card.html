@@ -1,0 +1,7 @@
+<li class="card">  
+  <header>
+    <a href="{{ item.url }}"><h2>{{ item.data.title }}{%if item.data.subTitle %}<br><span>{{item.data.subTitle}}</span>{% endif %}</h2></a>
+  </header>
+  <p>{{ item.data.description }}</p>
+  <small><time datetime="{{ item.data.date | w3DateFilter }}">{{ item.data.date | dateFilter }}</time></small>
+</li>

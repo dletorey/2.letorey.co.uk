@@ -4,11 +4,9 @@
 		{{ postListHeadline }}
 	</h2>
 	{% endif %}
-	<ol class="post-list">
+	<ol class="post-list cards">
 		{% for item in postListItems %}
-		<li class="post-list__item">
-			<a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a>
-		</li>
+		{% include "partials/card.html" %}
 		{% endfor %}
 	</ol>
 </section>

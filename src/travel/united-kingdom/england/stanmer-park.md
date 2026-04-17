@@ -1,7 +1,7 @@
 ---
 title: "Stanmer Park"
 description: "Today we went for a walk around Stanmer Park on the edge of Brighton and The South Downs."
-date: 2026-04-05
+date: '2026-04-05'
 tags: ["Stanmer Park", "Brighton", "Walking", "Flowers", "Orchard"]
 album: https://flickr.com/photos/dletorey/albums/72177720332941063/
 oldUrl: /posts/travel/united-kingdom/england/stanmer-park/
