@@ -2,6 +2,14 @@ body {
   background-color: light-dark(var(--lm-background), var(--dm-background));
   color: light-dark(var(--lm-text), var(--dm-text));
 }
+::selection {
+  background-color: light-dark(var(--dm-background), var(--lm-background));
+  color: light-dark(var(--dm-text), var(--lm-text));
+}
+/* a::selection {
+  background-color: light-dark(var(--lm-background), var(--dm-background));
+  color: light-dark(var(--lm-text), var(--dm-text));
+} */
 h1,
 h2,
 h3,
@@ -10,6 +18,10 @@ h5,
 h6,
 a {
   color: light-dark(var(--lm-heading), var(--dm-heading));
+}
+a:hover, a:focus {
+  color: light-dark(var(--dm-heading), var(--lm-heading));
+  background-color: light-dark(var(--dm-background),var(--lm-background));
 }
 .spoilers {
   color: light-dark(var(--lm-text), var(--dm-text));
