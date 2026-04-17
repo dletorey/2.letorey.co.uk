@@ -2,9 +2,16 @@ header[role="banner"] {
   display: flex;
   flex-direction: row;
 }
-.logo img {
+.logo img, .logo svg, .logo .icon {
   height: var(--sp-xl);
-  width: auto;
+  width: var(--sp-xl);
+}
+.logo .icon {
+  background-image: url("/images/site-icon.svg");
+  background-size: 100%;
+}
+a:hover .icon, a:focus .icon {
+  background-image: url("/images/site-icon-opp.svg");
 }
 header nav, footer nav {
   width: 100%;
