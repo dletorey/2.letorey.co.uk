@@ -2,6 +2,10 @@ header[role="banner"] {
   display: flex;
   flex-direction: row;
 }
+header[role="banner"], .flex-wrapper {
+  max-width: 60rem;
+  margin: 0 auto;
+}
 .logo img, .logo svg, .logo .icon {
   height: var(--sp-xl);
   width: var(--sp-xl);

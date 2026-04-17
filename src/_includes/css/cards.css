@@ -7,7 +7,11 @@
   padding: var(--sp-s-m);
   gap: var(--sp-s-m);
 }
-
+.cards li {
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-row: span 3 / span 3;
+}
 .card {
   display: grid;
   grid-template-rows: subgrid;
@@ -36,10 +40,10 @@
 p {
   font-size: var(--step--2);
 }
-.card:hover {
+.card:hover, .card:focus {
   background-color: light-dark(var(--dm-background), var(--lm-background));
   color: light-dark(var(--dm-text), var(--lm-text));
 }
-.card:hover h2 {
+.card:hover h2, .card:focus h2 {
   color: light-dark(var(--dm-heading), var(--lm-heading));
 }

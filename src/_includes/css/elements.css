@@ -70,9 +70,10 @@ blockquote {
 }
 h1 {
   font-size: var(--step-4);
+  line-height: var(--step-3);
 }
 h1 span {
-    font-size: var(--step-3);
+    font-size: var(--step-2);
 }
 h2 {
   font-size: var(--step-3);

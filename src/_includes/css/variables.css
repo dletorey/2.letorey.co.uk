@@ -60,9 +60,9 @@
   --sp-l-3xl: clamp(2.25rem, 0.4239rem + 9.1304vi, 7.5rem);
   color-scheme: light dark;
 }
-.flex-wrapper {
+/* .flex-wrapper {
   display: flex;
   min-height: 90vh;
   flex-direction: column;
   justify-content: space-between;
-}
+} */

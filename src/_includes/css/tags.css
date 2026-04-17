@@ -46,6 +46,9 @@ header nav ul li a:not([data-state="active"]),
 footer nav ul li a:not([data-state="active"]) {
   border-color: light-dark(var(--lm-background), var(--dm-background));
 }
+.pagination {
+  margin: var(--step--1);
+}
 .pagination__inner a {
   margin: var(--step--2);
 }
