@@ -21,6 +21,7 @@
   border: 2px solid;
   border-radius: var(--sp-xs-s);
   border-color: light-dark(var(--lm-heading), var(--dm-heading));
+  text-decoration: none;
 }
 .card header,
 .card p,

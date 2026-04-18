@@ -1,3 +1,6 @@
+.pages {
+  font-size: var(--step-1);
+}
 .tags-list {
   display: flex;
   flex-direction: row;
