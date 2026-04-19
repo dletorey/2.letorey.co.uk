@@ -1,6 +1,9 @@
 <h3>
   <time  datetime="{{ change.date | w3DateFilter }}">{{ change.date | dateFilter }}</time>
 </h3>
+{% if change.related %}
+<a href="{{change.related}}">Related post</a>
+{% endif %}
 {% if change.changes.length > 0 %}
 <ol>
   {% for chg in change.changes %}
