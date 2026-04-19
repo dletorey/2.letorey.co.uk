@@ -8,6 +8,7 @@
   "locale": "en-gb",
   "zone": "Europe/London",
   "icon": "/images/site-icon.svg",
+  "gitProject": "https://github.com/dletorey/rebuild",
   "hcard":{
     "avatar": "dletorey-avatar.png",
     "name": "Dave Letorey",

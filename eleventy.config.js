@@ -1,15 +1,19 @@
 import rssPlugin from '@11ty/eleventy-plugin-rss';
 import CleanCSS from "clean-css";
+import markdownit from 'markdown-it';
 // Filters
-import { dateFilter } from './src/filters/date-filter.js';
-import { w3DateFilter } from './src/filters/w3-date-filter.js';
+import { dateFilter, w3DateFilter, olderThan } from './src/filters/date-filters.js';
 import { filterByKey } from './src/filters/array-filters.js';
+import { mdLine, mdBlock } from './src/filters/markdown-filters.js';
 
 export default function (eleventyConfig) {
 	// Add filters
 	eleventyConfig.addFilter('dateFilter', dateFilter);
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
+	eleventyConfig.addFilter('olderThan', olderThan);
 	eleventyConfig.addFilter('filterByKey', filterByKey);
+	eleventyConfig.addFilter('mdLine', mdLine);
+	eleventyConfig.addFilter('mdBlock', mdBlock);
 	eleventyConfig.addFilter("cssmin", function (code) {
 		return new CleanCSS({}).minify(code).styles;
 	});

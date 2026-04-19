@@ -9,11 +9,25 @@ const ordinalDay = (day) => {
 			]
 		: '';
 };
-
-export const dateFilter = (value) => {
+const w3DateFilter = (value) => {
+	return DateTime.fromISO(value, { zone: 'utc' }).toString();
+};
+const dateFilter = (value) => {
 	const dateObj = DateTime.fromISO(value, { zone: 'utc' });
 
 	return dateObj.toFormat(
 		`EEEE d'${ordinalDay(dateObj.day)}' MMMM yyyy`,
 	);
 };
+
+const olderThan = (date, days) => {
+	const ms = 86400000;
+	const daysMs = days * ms;
+	const then = new Date(date).getTime();
+  const now  = new Date().getTime();
+	if (now - then < daysMs) {
+		return true
+	}
+};
+
+export { w3DateFilter, dateFilter, olderThan };

@@ -211,8 +211,8 @@
     },
     {
       "date": "2026-04-01",
-      "pr": "31",
-      "preview": "31",
+      "pr": "33",
+      "preview": "33",
       "changes": [
         "added permalinks throughout",
         "restructured all the posts",

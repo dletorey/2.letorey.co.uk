@@ -4,6 +4,10 @@
 {% block content %}
 <article>
 	{% include "partials/page-header.html" %}
+	{% if pageName === 'daveLinks' %}
 	{% include "partials/links-list.html" %}
+	{% elseif pageName === 'changeLog' %}
+	{% include "partials/changes.html" %}
+	{% endif %}
 </article>
 {% endblock %}
