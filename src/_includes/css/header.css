@@ -5,6 +5,7 @@ header[role="banner"] {
 header[role="banner"], .flex-wrapper {
   max-width: 60rem;
   margin: 0 auto;
+  padding: 0 var(--sp-s-m);
 }
 .logo img, .logo svg, .logo .icon {
   height: var(--sp-xl);
