@@ -18,7 +18,7 @@
       "preview": "12",
       "changes": [
         "Updated to latest version of 11ty [Canary 3.0.0-beta.1](https://www.11ty.dev/blog/canary-eleventy-v3/)",
-        "Added new post [Grief is just love with no place to go](/posts/grief-is-just-love-with-no-place-to-go/)",
+        "Added new post [Grief is just love with no place to go](/thoughts/grief-is-just-love-with-no-place-to-go/)",
         "Added width style for `<blockquote>`"
       ]
     },
@@ -27,7 +27,7 @@
       "pr": "13",
       "preview": "13",
       "changes": [
-        "Added new post [Massive Attack live on Clifton Downs Bristol](/posts/massive-attack-bristol-2024/)",
+        "Added new post [Massive Attack live on Clifton Downs Bristol](/music/live/massive-attack-bristol-2024/)",
         "updated style for `<li>`"
       ]
     },
@@ -36,8 +36,8 @@
       "pr": "14",
       "preview": "14",
       "changes": [
-        "Added new post [Florence Prom 69](/posts/florence-prom69/)",
-        "Added the set list for [Massive Attack live on Clifton Downs Bristol](/posts/massive-attack-bristol-2024/)",
+        "Added new post [Florence Prom 69](/music/live/florence-prom69/)",
+        "Added the set list for [Massive Attack live on Clifton Downs Bristol](/music/live/massive-attack-bristol-2024/)",
         "Reversed the collection.all"
       ]
     },
@@ -46,7 +46,7 @@
       "pr": "15",
       "preview": "15",
       "changes": [
-        "Added new post [Trains, Talks & Techno!](/posts/trains-talks-and-techno/)"
+        "Added new post [Trains, Talks & Techno!](/music/live/trains-talks-and-techno/)"
       ]
     },
     {
@@ -107,7 +107,7 @@
       "changes": [
         "Added styles for `picture` and `img` elements",
         "Restricted width of `li` elements",
-        "Added [Free Mo Chara](/leets/free-mo-chara) post"
+        "Added [Free Mo Chara](/music/other/free-mo-chara) post"
       ]
     },
     {
@@ -116,9 +116,9 @@
       "preview": "22",
       "changes": [
         "Added styles for `iframe` element",
-        "Added [Where's your head at](/leets/wheres-your-head-at) post",
-        "Made set list for [Massive Attack](/posts/massive-attack-bristol-2024/) post local",
-        "Made set list for [Talks Trains & Techno](/posts/trains-talks-and-techno/) post local"
+        "Added [Where's your head at](/music/live/wheres-your-head-at) post",
+        "Made set list for [Massive Attack](/music/live/massive-attack-bristol-2024/) post local",
+        "Made set list for [Talks Trains & Techno](/music/live/trains-talks-and-techno/) post local"
       ]
     },
     {
