@@ -1,7 +1,7 @@
 ---
 title: "Animating a mobile menu"
 description: ""
-tags: []
+tags: ["HTML", "CSS", "SVG", "JavaScript", "Animation", "Menu", "Navigation", "transitions"]
 date: "2020-11-24"
 oldUrl: "/blog/animating-a-mobile-menu"
 ---
