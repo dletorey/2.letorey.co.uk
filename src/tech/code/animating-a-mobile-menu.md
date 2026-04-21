@@ -2,7 +2,7 @@
 title: "Animating a mobile menu"
 description: ""
 tags: []
-date: "2020-11-24 11:13:36"
+date: "2020-11-24"
 oldUrl: "/blog/animating-a-mobile-menu"
 ---
 While designing my new site, I am first focussing on mobile first strategy, I want to learn and showcase ideas.
