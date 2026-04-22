@@ -13,7 +13,7 @@ So I have decided that I want to animate the menu on mobile to make best use of 
 
 ## Logo starting point
 
-![Logo position when the menu is closed](/images/animate-menu/logo-starting-point.png)
+![Logo position when the menu is closed](/images/animate-menu/logo-starting-point.jpg)
 
 ### HTML
 
@@ -53,7 +53,7 @@ I want the header to start half way through the circle in the logo hence the mar
 
 ## Logo ending point
 
-![Logo position when the menu is open](/images/animate-menu/logo-ending-point.png)
+![Logo position when the menu is open](/images/animate-menu/logo-ending-point.jpg)
 
 ### HTML
 
@@ -94,7 +94,7 @@ When the menu is open, the header has a `class="open"` and the logo will be in a
 
 ## Menu open state
 
-![Menu in the open state](/images/animate-menu/menu-open.png)
+![Menu in the open state](/images/animate-menu/menu-open.jpg)
 
 ### HTML
 
@@ -151,7 +151,7 @@ This is all pretty simple the margin top and left are to position the menu aroun
 
 ## Menu hidden state
 
-![Menu in the closed state](/images/animate-menu/menu-closed.png)
+![Menu in the closed state](/images/animate-menu/menu-closed.jpg)
 
 ### HTML
 

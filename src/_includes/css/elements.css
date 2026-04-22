@@ -47,8 +47,7 @@ h4,
 h5,
 h6,
 dt,
-blockquote,
-figcaption {
+blockquote {
   text-wrap: balance;
   max-inline-size: 25ch;
 }
@@ -121,7 +120,6 @@ picture,
 img,
 iframe,
 video {
-  width: 95%;
   max-width: 60ch;
   height: auto;
 }
